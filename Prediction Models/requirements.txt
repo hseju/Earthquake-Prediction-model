@@ -1,0 +1,7 @@
+geopandas==0.10.2
+pandas
+pandas-datareader==0.10.0
+pandasql==0.7.3
+torch==1.7.1+cu110
+torchaudio==0.7.2
+torchvision==0.8.2+cu110
